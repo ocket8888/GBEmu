@@ -1,0 +1,56 @@
+myemu.cpp: In function ‘int main(int, char**)’:
+myemu.cpp:191:6: warning: unused variable ‘a’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+      ^
+myemu.cpp: In function ‘int main(int, char**)’:
+myemu.cpp:191:6: warning: unused variable ‘a’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+      ^
+myemu.cpp:191:10: warning: unused variable ‘b’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+          ^
+myemu.cpp:191:14: warning: unused variable ‘c’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+              ^
+myemu.cpp:191:18: warning: unused variable ‘d’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+                  ^
+myemu.cpp:191:22: warning: unused variable ‘e’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+                      ^
+myemu.cpp:191:26: warning: unused variable ‘f’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+                          ^
+myemu.cpp:191:30: warning: unused variable ‘h’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+                              ^
+myemu.cpp:191:34: warning: unused variable ‘l’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+                                  ^
+myemu.cpp:191:10: warning: unused variable ‘b’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+          ^
+myemu.cpp:191:14: warning: unused variable ‘c’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+              ^
+myemu.cpp:191:18: warning: unused variable ‘d’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+                  ^
+myemu.cpp:191:22: warning: unused variable ‘e’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+                      ^
+myemu.cpp:191:26: warning: unused variable ‘f’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+                          ^
+myemu.cpp:191:30: warning: unused variable ‘h’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+                              ^
+myemu.cpp:191:34: warning: unused variable ‘l’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+                                  ^
+myemu.cpp:191:38: warning: unused variable ‘sp’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+                                      ^
+myemu.cpp:191:38: warning: unused variable ‘sp’ [-Wunused-variable]
+  int a=0,b=0,c=0,d=0,e=0,f=0,h=0,l=0,sp=0;
+                                      ^
